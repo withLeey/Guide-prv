@@ -1,0 +1,21 @@
+{
+  "name": "guide-prv",
+  "version": "1.0.0",
+  "description": "A project that helps web developers understand the technical requirements of current recruitment.",
+  "main": "index.js",
+  "repository": "git@github.com:withLeey/Guide-prv.git",
+  "author": "tangyao",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.2.2",
+    "babel": "^6.23.0",
+    "babel-core": "^6.26.3",
+    "babel-eslint": "^10.0.1",
+    "babel-loader": "^8.0.4",
+    "eslint": "^5.11.1",
+    "eslint-loader": "^2.1.1",
+    "react": "^16.7.0",
+    "webpack": "^4.28.3",
+    "webpack-cli": "^3.2.0"
+  }
+}
